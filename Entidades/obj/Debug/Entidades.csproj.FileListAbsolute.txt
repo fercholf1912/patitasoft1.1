@@ -1,0 +1,9 @@
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\bin\Debug\Entidades.exe
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\obj\Debug\Entidades.exe
+C:\Users\Papelito\source\repos\PatitaSoftSystem\Entidades\obj\Debug\Entidades.pdb
